@@ -42,7 +42,7 @@
 ## 💡 Interests & Focus
 
 <p align="center">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tensorflow.svg" alt="AI Icon" title="Artificial Intelligence" />
+    <img width="50" height="50" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="AI Icon" title="Artificial Intelligence" />
     <img width="50" height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kali-linux.svg" alt="Cybersecurity Icon" title="Hacking & Cybersecurity" style="margin: 0 20px;" />
     <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Icon" title="42 Paris Projects" />
     <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Icon" title="Pro Linux user"/>
