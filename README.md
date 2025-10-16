@@ -27,6 +27,18 @@
 
 ---
 
+## 🐧 Linux Experience
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux Badge" />
+    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop-os&logoColor=white" alt="Pop!_OS Badge" />
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Badge" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge" />
+</p>
+
+---
+
 ## 💡 Interests & Focus
 
 <p align="center">
@@ -48,6 +60,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Table-en4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Table-en4's GitHub stats" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Table-en4&layout=compact&theme=tokyonight" alt="Table-en4's Top Languages" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Table-en4&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
