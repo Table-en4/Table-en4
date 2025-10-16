@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
     <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# Badge" />
     <br><br>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
     <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
     <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
@@ -49,7 +50,8 @@
 
 <p align="center">
     I love building <b>AI-driven projects</b> and I'm currently focusing on <b>Machine Learning</b> and <b>Deep Learning</b>.<br>
-    I'm also passionate about <b>Hacking</b> and <b>Cybersecurity</b>, exploring both the offensive and defensive sides.
+    I'm also passionate about <b>Hacking</b> and <b>Cybersecurity</b>, exploring both the offensive and defensive sides.<br>
+    In parallel, I enjoy developing <b>web backends</b> using <b>PHP</b> and improving system automation.
 </p>
 
 ---
@@ -71,6 +73,7 @@
 - Advanced **C programming** (42 curriculum)
 - **AI/ML frameworks** (TensorFlow, PyTorch)
 - **Cybersecurity fundamentals** and ethical hacking tools
+- **Web backend development** with **PHP**
 - Building **automation tools** and system scripts
 
 ---
