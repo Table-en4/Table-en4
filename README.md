@@ -189,12 +189,12 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Table-en4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Table-en4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Table-en4&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Table-en4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Table-en4&theme=tokyo-night&hide_border=true" alt="Activity" />
+  <img src="https://streak-stats.demolab.com?user=Table-en4&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 <br>
